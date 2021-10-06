@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-ng-e74ea": {
+      "hosting": {
+        "login-ng": [
+          "login-ng-e74ea"
+        ]
+      }
+    }
+  }
+}

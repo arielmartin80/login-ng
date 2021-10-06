@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=rwIOw7f0RHk&list=PL_9MDdjVuFjEJXpRgrCMvxKHgdtdk6AOJ&index=1
+
+ 5:00 instalar dependencias
+14:00 generacion de componentes
+17:00 instalacion angular fire
+20:30 routes
+25:40 menu
